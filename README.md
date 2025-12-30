@@ -20,5 +20,5 @@ Application console développée en langage C pour la gestion complète d'une ag
 * **Algorithmique :** Implémentation d'algorithmes de recherche séquentielle et de tri.
 * **Gestion de Fichiers :** Manipulation avancée des entrées/sorties pour le stockage durable des données.
 
-## Auteur
+## Auteurs
 Projet réalisé par Hiba Karam en collaboration avec Bounya Fayçal, Kamil Mohamed et Sefraoui Hiba - Élèves Ingénieurs @ EMSI.
