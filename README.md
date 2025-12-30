@@ -20,14 +20,5 @@ Application console développée en langage C pour la gestion complète d'une ag
 * **Algorithmique :** Implémentation d'algorithmes de recherche séquentielle et de tri.
 * **Gestion de Fichiers :** Manipulation avancée des entrées/sorties pour le stockage durable des données.
 
-## Installation et Exécution
-1. Cloner le dépôt.
-2. Compiler le code source :
-   gcc VOITURE.c -o location_app
-3. Lancer l'application :
-   ./location_app
-   (Sur Windows : location_app.exe)
-
 ## Auteur
 Projet réalisé par Hiba Karam en collaboration avec Bounya Fayçal, Kamil Mohamed et Sefraoui Hiba - Élèves Ingénieurs @ EMSI.
-
