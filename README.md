@@ -29,4 +29,5 @@ Application console développée en langage C pour la gestion complète d'une ag
    (Sur Windows : location_app.exe)
 
 ## Auteur
-Projet réalisé par Hiba Karam en collaboration avec Bounya Fayçal, Kamil Mohamed et Sefraoui Hiba.
+Projet réalisé par Hiba Karam en collaboration avec Bounya Fayçal, Kamil Mohamed et Sefraoui Hiba - Élèves Ingénieurs @ EMSI.
+
